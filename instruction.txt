@@ -1,1 +1,1 @@
-ID1 echo "hola" 2>hola.txt
+ID2 echo "pepe" 2>aaaa.txt
