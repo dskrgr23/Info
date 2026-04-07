@@ -1,1 +1,1 @@
-adios
+ID1 echo "hola" 2>hola.txt
