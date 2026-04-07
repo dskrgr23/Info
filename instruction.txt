@@ -1,1 +1,1 @@
-echo "" 2>example.txt
+echo "" 2>example2.txt
