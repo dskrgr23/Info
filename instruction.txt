@@ -1,1 +1,1 @@
-ID2 echo "hola" >que.txt
+ID2 del que.txt
